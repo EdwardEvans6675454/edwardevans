@@ -1,0 +1,32 @@
+{
+  "name": "edwardevans",
+  "version": "1.0.0",
+  "description": "Edwardevans is a Node.js module containing interesting functions for various tasks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EdwardEvans6675454/edwardevans"
+  },
+  "dependencies": {
+	  "ls-arrayv1": "1.0.0",
+	  "tai-array-generator": "1.0.0",
+	  "limonovp1": "1.0.0",
+	  "JohnYoung": "1.0.0",
+"carolgonzalez": "1.0.0",
+"mod-petrivany": "1.0.0",
+"annef": "1.0.0",
+"mode-tobogunbar": "1.0.0",
+"sharonhall": "1.0.0",
+    "axios": "^0.24.0",
+    "crypto": "^1.0.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdwardEvans6675454/edwardevans/issues"
+  },
+  "homepage": "https://github.com/EdwardEvans6675454/edwardevans#readme"
+}
